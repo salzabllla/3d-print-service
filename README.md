@@ -2,6 +2,10 @@
 
 Project website untuk mengelola layanan cetak 3D dari pengajuan sampai pesanan selesai. Pengguna mengirim detail pesanan dan admin mengatur biaya serta antrean pengerjaan.
 
+## Tampilan beranda
+
+![Beranda 3D Print Service](beranda-3d.png)
+
 ## Fitur
 
 1. Formulir pengajuan dengan tautan file cetak.
@@ -16,4 +20,4 @@ Pengguna mengirim formulir pengajuan. Admin memeriksa file dan menentukan biaya.
 
 ## Kode project
 
-Kode tersedia di `3d-print-service.zip`. Unduh lalu ekstrak arsip untuk membaca folder sumber. Siapkan konfigurasi dan data demo sendiri sebelum menjalankannya.
+Kode tersedia di `3d-print-service.zip`. Unduh lalu ekstrak arsip untuk membaca folder sumber.
